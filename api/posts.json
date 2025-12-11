@@ -16,7 +16,7 @@
         "time": "2025-12-11 18:45",
         "images": [
           "https://images.unsplash.com/photo-1509228628317-9b88f7d20d5f?w=800"
-        ]，
+        ],
         "likes": 156,
         "comments": 42,
         "tags": ["高数", "期末", "资料"]
@@ -31,7 +31,7 @@
         "time": "2025-12-11 17:30",
         "likes": 389,
         "comments": 156
-      }，
+      },
       {
         "id": 1697,
         "category": "二手",
