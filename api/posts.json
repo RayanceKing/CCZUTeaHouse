@@ -1,0 +1,60 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "page": 1,
+    "total": 156,
+    "has_more": true,
+    "list": [
+      {
+        "id": 1688,
+        "type": "二手交易",
+        "title": "出售99新 iPhone 15 Pro 256G 深空黑色",
+        "price": "¥6800",
+        "original_price": "¥7999",
+        "user": "大四学长直卖",
+        "avatar": "https://avatars.githubusercontent.com/u/12345678?v=4",
+        "time": "2025-12-11 14:32",
+        "content": "国行有票，盒子配件齐全，成色如图，可刀可面交",
+        "images": [
+          "https://images.unsplash.com/photo-1592750477090-92b8f3a0a2a3?w=800",
+          "https://images.unsplash.com/photo-1592750477090-92b8f3a0a2a3?w=800&flip",
+          "https://images.unsplash.com/photo-1592750477090-92b8f3a0a2a3?w=800&blur"
+        ],
+        "likes": 89,
+        "comments": 23,
+        "tags": ["数码", "苹果", "可刀"],
+        "contact": "微信：rayance123"  // 预留联系方式
+      },
+      {
+        "id": 1687,
+        "type": "树洞",
+        "title": "今天在白云食堂看到一个超可爱的小姐姐",
+        "content": "穿白色毛衣戴眼镜的那位，你知道我在说你吗？如果看到请加我微信：czdx2025",
+        "user": "匿名",
+        "time": "2025-12-11 13:20",
+        "images": [
+          "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=800"
+        ],
+        "likes": 256,
+        "comments": 68
+      },
+      {
+        "id": 1686,
+        "type": "二手交易",
+        "title": "低价出Switch OLED + 塞尔达王国之泪 + 健身环",
+        "price": "¥2100",
+        "user": "游戏党毕业清仓",
+        "time": "2025-12-11 11:15",
+        "images": [
+          "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800",
+          "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&flip",
+          "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&blur",
+          "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&blur=2"
+        ],
+        "likes": 45,
+        "comments": 12
+      }
+    ]
+  }
+}
