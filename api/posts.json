@@ -3,57 +3,73 @@
   "message": "success",
   "data": {
     "page": 1,
-    "total": 156,
+    "total": 289,
     "has_more": true,
     "list": [
       {
-        "id": 1688,
-        "type": "二手交易",
-        "title": "出售99新 iPhone 15 Pro 256G 深空黑色",
-        "price": "¥6800",
-        "original_price": "¥7999",
-        "user": "大四学长直卖",
-        "avatar": "https://avatars.githubusercontent.com/u/12345678?v=4",
-        "time": "2025-12-11 14:32",
-        "content": "国行有票，盒子配件齐全，成色如图，可刀可面交",
+        "id": 1699,
+        "category": "学习",
+        "title": "高数期末重点总结！99% 覆盖考点",
+        "content": "我整理了30页PDF，包含历年真题+公式表，需要的私信我",
+        "user": "高数学神",
+        "is_anonymous": false,
+        "time": "2025-12-11 18:45",
         "images": [
-          "https://images.unsplash.com/photo-1592750477090-92b8f3a0a2a3?w=800",
-          "https://images.unsplash.com/photo-1592750477090-92b8f3a0a2a3?w=800&flip",
-          "https://images.unsplash.com/photo-1592750477090-92b8f3a0a2a3?w=800&blur"
-        ],
-        "likes": 89,
-        "comments": 23,
-        "tags": ["数码", "苹果", "可刀"],
-        "contact": "微信：rayance123"  // 预留联系方式
+          "https://images.unsplash.com/photo-1509228628317-9b88f7d20d5f?w=800"
+        ]，
+        "likes": 156,
+        "comments": 42,
+        "tags": ["高数", "期末", "资料"]
       },
       {
-        "id": 1687,
-        "type": "树洞",
-        "title": "今天在白云食堂看到一个超可爱的小姐姐",
-        "content": "穿白色毛衣戴眼镜的那位，你知道我在说你吗？如果看到请加我微信：czdx2025",
+        "id": 1698,
+        "category": "表白墙",
+        "title": "计科院3号楼下那个穿白色羽绒服的女生"，
+        "content": "今天中午12:15左右，你从我身边走过时笑了，我心动了。你是21级软工的吗？",
         "user": "匿名",
-        "time": "2025-12-11 13:20",
+        "is_anonymous": true,
+        "time": "2025-12-11 17:30",
+        "likes": 389,
+        "comments": 156
+      }，
+      {
+        "id": 1697,
+        "category": "二手",
+        "title": "急出MacBook Pro M2 16+512 99新",
+        "price": "¥7200",
+        "user": "毕业清仓",
+        "is_anonymous": false,
+        "time": "2025-12-11 16:20",
         "images": [
-          "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=800"
+          "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800",
+          "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=800&flip"
         ],
-        "likes": 256,
-        "comments": 68
+        "likes": 67,
+        "comments": 18
       },
       {
-        "id": 1686,
-        "type": "二手交易",
-        "title": "低价出Switch OLED + 塞尔达王国之泪 + 健身环",
-        "price": "¥2100",
-        "user": "游戏党毕业清仓",
-        "time": "2025-12-11 11:15",
+        "id": 1696,
+        "category": "失物招领",
+        "title": "白云校区图书馆三楼捡到一张校园卡",
+        "content": "姓名：王同学，学号22开头，捡到时间今天下午3点，速来图书馆服务台领取",
+        "user": "热心同学",
+        "is_anonymous": false,
+        "time": "2025-12-11 15:10",
         "images": [
-          "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800",
-          "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&flip",
-          "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&blur",
-          "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&blur=2"
+          "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=800"
         ],
-        "likes": 45,
-        "comments": 12
+        "likes": 23
+      },
+      {
+        "id": 1695,
+        "category": "生活",
+        "title": "求推荐白云附近好吃的烧烤！",
+        "content": "今天想和室友吃夜宵，有没有本地人推荐？预算50以内",
+        "user": "匿名",
+        "is_anonymous": true,
+        "time": "2025-12-11 14:05",
+        "likes": 89,
+        "comments": 34
       }
     ]
   }
